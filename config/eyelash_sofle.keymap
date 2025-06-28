@@ -64,7 +64,7 @@
             >;
 
             display-name = "layer1";
-            sensor-bindings = <&inc_dec_kp LG(PLUS) LG(MINUS)>;
+            sensor-bindings = <&inc_dec_kp PLUS MINUS>;
         };
 
         layer_2 {
